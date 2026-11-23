@@ -50,7 +50,7 @@ main
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<org>/data-forge-bootcamp.git
+git clone https://github.com/othmaneOUKBIL/data-forge-bootcamp.git
 cd data-forge-bootcamp
 
 # 2. Create your personal branch (once)
